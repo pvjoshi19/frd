@@ -4,3 +4,6 @@ a = 5
 b = 7
 
 print("Just a check" , a+b)
+
+
+print("Now checking subtraction" , a-b)
